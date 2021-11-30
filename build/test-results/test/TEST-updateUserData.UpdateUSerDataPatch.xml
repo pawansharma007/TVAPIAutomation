@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="updateUserData.UpdateUSerDataPatch" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-30T09:18:09" hostname="Apples-MacBook-Pro.local" time="3.339">
+  <properties/>
+  <testcase name="patchUserData" classname="updateUserData.UpdateUSerDataPatch" time="3.339"/>
+  <system-out><![CDATA[200
+2021-11-30T09:18:12.378Z
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
